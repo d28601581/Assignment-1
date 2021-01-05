@@ -1,7 +1,7 @@
-# Assignment-1 <details>
+# Assignment-1 
 Creating a website for Feeding America
   
-### Specifications <details>
+### Specifications 
   There will be three pages on the website
   Home Page
   About Page
