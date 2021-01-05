@@ -2,10 +2,7 @@
 Creating a website for Feeding America
   
 ### Specifications 
-  There will be three pages on the website
-  Home Page
-  About Page
-  Donate Page
+  There will be three pages on the website: Home, About, & Donate Pages
   
   Each page will have a menu screen so you can jump from one page to another without typing the links over and over
   
