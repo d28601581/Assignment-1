@@ -1,6 +1,8 @@
 # Assignment-1 
 Creating a website for Feeding America
+
 https://d28601581.github.io/Assignment-1/HomePage.html
+
 https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak/edit#
   
 ### Specifications 
